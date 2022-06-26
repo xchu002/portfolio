@@ -1,0 +1,20 @@
+.title {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+#stay-tuned {
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    max-width: 80%;
+    max-height: auto;
+}
