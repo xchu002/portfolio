@@ -18,3 +18,33 @@
     max-width: 80%;
     max-height: auto;
 }
+
+#mini-projects {
+    background-color: azure;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.mini-project {
+    background-color: white;
+    flex-basis: 300px;
+	flex-grow: 0;
+	flex-shrink: 0;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 5%;
+
+}   
+
+.mini-project-img {
+    max-width: 100%;
+}
+
+.mini-project-title {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.mini-project-caption {
+    margin: 10px;
+}
